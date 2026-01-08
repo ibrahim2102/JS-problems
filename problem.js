@@ -149,6 +149,7 @@ const evenNumbers = findEvenNumbers([1, 2, 3, 4, 5, 6]);
 
 
 
+
 // Problem-08
 
 function capitalizeWords(str) {
@@ -218,6 +219,7 @@ function pingPong() {
 
   console.log(result.join(", "));
 }
+
 
 // Run the function
 
